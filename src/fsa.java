@@ -12,7 +12,7 @@ import java.util.Scanner;
  *	date last modified: 10/17/2017
  *
  *	purpose: To develop a universal finite state automaton
- *
+ *  compile---- everything is attached to the src file.
  *
  ************************************************************************************/
 public class fsa{
