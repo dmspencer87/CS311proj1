@@ -63,7 +63,7 @@ public class fsa{
                 int cState = firstState;
                 for(int i = 0; i < in.length(); ++i) {
                     if(!checkAlphabet(in.charAt(i))) {
-                        if(in.charAt(i) == ' ') {
+                        if(in.charAt(i) == ' ' ) {
                             System.out.println(in + "\t\taccept");
                         }
                         else {
